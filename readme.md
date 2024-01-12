@@ -70,7 +70,7 @@ Welcome to Hex, a Ruby web application designed using the Hexagonal Architecture
 
 -   **Web Adapter**:
     
-    shCopy code
+    Copy command
     
     `ruby app/adapters/web/adapter.rb` 
     
@@ -78,7 +78,7 @@ Welcome to Hex, a Ruby web application designed using the Hexagonal Architecture
     
 -   **Admin Adapter**:
     
-    shCopy code
+    Copy command
     
     `ruby app/adapters/admin/adapter.rb` 
     
@@ -86,7 +86,7 @@ Welcome to Hex, a Ruby web application designed using the Hexagonal Architecture
     
 -   **GraphQL Adapter**:
     
-    shCopy code
+    Copy command
     
     `ruby app/adapters/graphql/adapter.rb` 
     
@@ -95,14 +95,14 @@ Welcome to Hex, a Ruby web application designed using the Hexagonal Architecture
 
 ### What to Expect
 
--   **Web Interface**: A user-friendly web interface for viewing and managing blog posts.
--   **Admin Interface**: An administrative dashboard for advanced management tasks.
--   **GraphQL API**: An interactive GraphQL interface to query and mutate data.
--   **REST API**: Standard RESTful endpoints for CRUD operations.
+-   **Web Interface**: A user-friendly web interface for viewing and managing blog posts. (in progress)
+-   **Admin Interface**: An administrative dashboard for advanced management tasks. (in progress)
+-   **GraphQL API**: An interactive GraphQL interface to query and mutate data. (done)
+-   **REST API**: Standard RESTful endpoints for CRUD operations. (not started)
 
 ## Documentation
 
-For detailed usage and API documentation, refer to the `docs/` directory (if available) or inline code comments throughout the application.
+For detailed usage and API documentation, refer to the `docs/` directory (if available) or inline code comments throughout the application. (not started yet)
 
 ## Contributing
 
