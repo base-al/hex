@@ -1,5 +1,5 @@
 
-# README for Hex - A Modular Ruby Web Application
+# Hex - A Modular Ruby Web Application
 
 ## Introduction
 
